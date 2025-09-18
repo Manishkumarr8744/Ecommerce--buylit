@@ -9,6 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "devDependencies": {
+  "vite": "^5.0.0",
+  "eslint": "^9.0.0"
+}
+,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
