@@ -1,4 +1,4 @@
-const { metadata } = require("figlet")
+
 
 const dotenv= require("dotenv")
 dotenv.config({path:"config/config.env"})
