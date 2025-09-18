@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Env files (keep secrets out of GitHub)
+
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build / compiled files
+dist/
+build/
+coverage/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional lock files (uncomment if you don’t want them in repo)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
